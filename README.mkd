@@ -1,0 +1,45 @@
+# Standards & Protocols
+
+## Real-time Web
+* [pubsubhubbub](https://code.google.com/p/pubsubhubbub/) - A simple, open, server-to-server webhook-based pubsub (publish/subscribe) protocol for any web accessible resources
+
+* [Apache (Google) Wave](http://en.wikipedia.org/wiki/Apache_Wave) - a software framework for real-time collaborative editing online.
+
+    * [Apache Page](http://incubator.apache.org/wave/)
+
+* [XMPP / Jabber](http://en.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol) - Extensible Messaging and Presence Protocol (XMPP) is a communications protocol for message-oriented middleware based on XML (Extensible Markup Language)
+
+## X
+
+* [JSON API](http://jsonapi.org/) - "JSON API" is a JSON-based read/write hypermedia-type designed to support a smart client who wishes to build a data-store of information.
+
+
+* [Microformts](http://en.wikipedia.org/wiki/Microformat) - A microformat is a web-based approach to semantic markup which seeks to re-use existing HTML/XHTML tags to convey metadata and other attributes in web pages and other contexts that support (X)HTML, such as RSS. 
+
+* [OStatus](http://www.w3.org/community/ostatus/wiki/Main_Page) - 
+OStatus is an open standard for distributed status updates that references a suite of open protocols including Atom, Activity Streams, PubSubHubbub, Salmon, Webfinger, that allows different messaging hubs to route status updates between users in near real-time.
+
+    * [Wikipedia](http://en.wikipedia.org/wiki/OStatus)
+
+* [Atom](http://www.atomenabled.org/) - Atom is a simple way to read and write information on the web, allowing you to easily keep track of more sites in less time, and to seamlessly share your words and ideas by publishing to the web.
+
+    * [Wikipedia](http://en.wikipedia.org/wiki/Atom_(standard))
+
+
+* [Activity Streams](http://activitystrea.ms/) - 
+Activity Streams is an open format specification for activity stream protocols, which are used to syndicate activities taken in social web applications and services, similar to those in Facebook[1]'s Newsfeed, FriendFeed, the Movable Type Action Streams plugin, etc.
+
+    * [Activity Streams Wiki](http://wiki.activitystrea.ms/w/page/1359261/FrontPage)
+    * [JSON format specification](http://activitystrea.ms/specs/json/1.0/)
+    * [Github](https://github.com/activitystreams/)
+
+* [Open Data Protocol (a.k.a OData)](http://en.wikipedia.org/wiki/Open_Data_Protocol) - Open Data Protocol (a.k.a OData) is a data access protocol from Microsoft released under the Microsoft Open Specification Promise. The protocol was designed to provide standard CRUD access to a data source via a website. It is similar to JDBC and ODBC although OData is not limited to SQL databases. 
+
+* [FOAF](http://www.foaf-project.org/) - FOAF (an acronym of Friend of a friend) is a machine-readable ontology describing persons, their activities and their relations to other people and objects.
+
+## Semantic Web
+
+* [OWL](http://en.wikipedia.org/wiki/Web_Ontology_Language) - The Web Ontology Language (OWL) is a family of knowledge representation languages for authoring ontologies. The languages are characterised by formal semantics and RDF/XML-based serializations for the Semantic Web. 
+
+* [RDF](http://en.wikipedia.org/wiki/Resource_Description_Framework) - is a family of World Wide Web Consortium (W3C) specifications [1] originally designed as a metadata data model. It has come to be used as a general method for conceptual description or modeling of information that is implemented in web resources, using a variety of syntax notations and data serialization formats.
+
